@@ -1,0 +1,1 @@
+User-friendly workout planning app designed to help you build, track, and optimize your fitness journey. With PulsePlanner, you can create personalized workout routines, log your daily exercises, monitor progress, and stay motivated as you achieve your fitness goals.
